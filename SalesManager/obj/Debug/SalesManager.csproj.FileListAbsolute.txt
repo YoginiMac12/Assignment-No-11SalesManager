@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\SalesManager\SalesManager\obj\Debug\SalesManager.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\SalesManager\SalesManager\obj\Debug\SalesManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\SalesManager\SalesManager\obj\Debug\SalesManager.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SalesManager\SalesManager\bin\Debug\SalesManager.exe.config
+C:\Users\HP\source\repos\SalesManager\SalesManager\bin\Debug\SalesManager.exe
+C:\Users\HP\source\repos\SalesManager\SalesManager\bin\Debug\SalesManager.pdb
+C:\Users\HP\source\repos\SalesManager\SalesManager\obj\Debug\SalesManager.exe
+C:\Users\HP\source\repos\SalesManager\SalesManager\obj\Debug\SalesManager.pdb
